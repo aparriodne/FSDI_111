@@ -1,0 +1,9 @@
+# to make a file: touch "file name"
+# to make a new folder: mkdir
+# activate venv: source venv/bin/activate
+# clear: clear
+# deactivate venv: deactivate
+# delete venv: rm -rf venv
+# for command fillin: "tab button"
+# to open vs: code .
+# to make a module: __"name"__.py
